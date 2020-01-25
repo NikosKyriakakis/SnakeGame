@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/nikos/CLionProjects/SnakeGame/include/BodyPart.h
+GameElement.h
+C:/Users/nikos/CLionProjects/SnakeGame/include/GameElement.h
+
+C:/Users/nikos/CLionProjects/SnakeGame/include/Food.h
+GameElement.h
+C:/Users/nikos/CLionProjects/SnakeGame/include/GameElement.h
+
+C:/Users/nikos/CLionProjects/SnakeGame/include/Game.h
+Snake.h
+C:/Users/nikos/CLionProjects/SnakeGame/include/Snake.h
+Food.h
+C:/Users/nikos/CLionProjects/SnakeGame/include/Food.h
+
+C:/Users/nikos/CLionProjects/SnakeGame/include/GameElement.h
+
+C:/Users/nikos/CLionProjects/SnakeGame/include/Snake.h
+vector
+-
+BodyPart.h
+C:/Users/nikos/CLionProjects/SnakeGame/include/BodyPart.h
+
+C:/Users/nikos/CLionProjects/SnakeGame/src/Game.cpp
+iostream
+-
+conio.h
+-
+ctime
+-
+chrono
+-
+thread
+-
+../include/Game.h
+C:/Users/nikos/CLionProjects/SnakeGame/include/Game.h
+
